@@ -1,2 +1,2 @@
 # ML_material
-Machine Learning material from skillshare course
+Machine Learning courses Docs  
